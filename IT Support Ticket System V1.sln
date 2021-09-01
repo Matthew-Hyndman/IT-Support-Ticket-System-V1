@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT Support Ticket System V1", "IT Support Ticket System V1\IT Support Ticket System V1.csproj", "{085E51E1-03B8-4E00-9474-ECED1C558D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT Support Ticket System V1Tests", "IT Support Ticket System V1Tests\IT Support Ticket System V1Tests.csproj", "{622D1022-B4B6-4000-97CF-0D0CFC8C6056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085E51E1-03B8-4E00-9474-ECED1C558D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085E51E1-03B8-4E00-9474-ECED1C558D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085E51E1-03B8-4E00-9474-ECED1C558D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085E51E1-03B8-4E00-9474-ECED1C558D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622D1022-B4B6-4000-97CF-0D0CFC8C6056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622D1022-B4B6-4000-97CF-0D0CFC8C6056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622D1022-B4B6-4000-97CF-0D0CFC8C6056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622D1022-B4B6-4000-97CF-0D0CFC8C6056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14CCD6E3-E329-4695-AF61-F453963227BA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+Printer is not working
+The printer is out of ink and paper.
+
+Server
+The server is chrashing.
+
+
+Logins:
+
+Client:
+User Name: Jack_West
+Password:  JW10002
+
+Admin:
+User Name: Tobi_Knights
+Password:  TK10007
